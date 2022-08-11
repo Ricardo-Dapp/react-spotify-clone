@@ -8,3 +8,16 @@
   padding-right: 10px;
   background-color: #040404;
 }
+
+.sidebar-logo {
+  object-fit: contain;
+  height: 70px;
+  padding: 10px;
+  margin-right: auto;
+}
+
+.sidebar-title {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 12px;
+}
